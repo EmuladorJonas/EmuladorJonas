@@ -24,7 +24,7 @@
   &nbsp;&nbsp;
   <img align="center" alt="Pic-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   &nbsp;&nbsp;
-  <img align="right" alt="Jonas-pic" height="150" style="border-radius:50px;" src="https://media-private.canva.com/taEtA/MAFP5ptaEtA/1/tl.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20221023%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221023T193802Z&X-Amz-Expires=27330&X-Amz-Signature=80b40c0371c359845c380aa469dfdb4ec28bdff821ac90a23fd0b5be528e821d&X-Amz-SignedHeaders=host&response-expires=Mon%2C%2024%20Oct%202022%2003%3A13%3A32%20GMT">
+  <img align="right" alt="Jonas-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/103910100/198158535-2603bc0f-cd86-425d-8f78-c3a2faf68341.png">
 </div>
 
 ##
