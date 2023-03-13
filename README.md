@@ -12,19 +12,11 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Pic-Jv" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   &nbsp;&nbsp;
-  <img align="center" alt="Pic-Lnx" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  &nbsp;&nbsp;
-  <img align="center" alt="Pic-Dkr" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  &nbsp;&nbsp;
-  <img align="center" alt="Pic-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
-  &nbsp;&nbsp;
   <img align="center" alt="Pic-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   &nbsp;&nbsp;
   <img align="center" alt="Pic-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   &nbsp;&nbsp;
   <img align="center" alt="Pic-GIT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-  &nbsp;&nbsp;
-  <img align="center" alt="Pic-JKS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   &nbsp;&nbsp;
   <img align="right" alt="Jonas-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/103910100/198158535-2603bc0f-cd86-425d-8f78-c3a2faf68341.png">
 </div>
